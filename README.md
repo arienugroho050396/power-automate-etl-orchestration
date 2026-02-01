@@ -13,7 +13,7 @@ The workflows in this repository are designed to act as the **entry point of ETL
 
 - Event-based triggers (file upload, email arrival, schedule) 
 - Initial data validation and formattingg
-- Secure handoff to scalable data processing systems
+- Secure handoff to scalable data processing systems 
 
 Typical architecture:
 
