@@ -8,7 +8,7 @@ This repository contains a collection of **Power Automate workflows** designed t
 Power Automate is used as a **low-code orchestration layer**, enabling event-driven triggers, validation steps, and integration between business-facing tools (such as SharePoint, Outlook, and Forms) and downstream data processing platforms.
 
 ## Architecture Overview
-
+  
 The workflows in this repository are designed to act as the **entry point of ETL pipelines**, focus on:
 
 - Event-based triggers (file upload, email arrival, schedule) 
