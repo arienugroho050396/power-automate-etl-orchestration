@@ -15,7 +15,7 @@ The workflows in this repository are designed to act as the **entry point of ETL
 - Initial data validation and formattingg    
 - Secure handoff to scalable data processing systems 
 
-Typical architecture:
+Typical architecture: 
 
 Source Systems  
 (SharePoint, Outlook, Forms)  
