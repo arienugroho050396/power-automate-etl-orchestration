@@ -11,7 +11,7 @@ Power Automate is used as a **low-code orchestration layer**, enabling event-dri
     
 The workflows in this repository are designed to act as the **entry point of ETL pipelines**, focus on: 
    
-- Event-based triggers (file upload, email arrival, schedule) 
+- Event-based triggers (file upload, email arrival, schedule)  
 - Initial data validation and formattingg   
 - Secure handoff to scalable data processing systems 
 
